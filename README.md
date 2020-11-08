@@ -34,6 +34,8 @@ The sample dependencies can also be installed via pip
 python -m pip install opencv-python pyopengl
 ```
 
+**Note:** On ubuntu you can use `sudo apt-get install python3-opencv` to install opencv-python package.
+
 **Note:** On Linux, it is advised to use the `python3` command instead of `python` which by default point to python 2.7. To do so, the following packages `python3-dev` and `python3-pip` need to be installed.
 
 ## Installing the Python API
